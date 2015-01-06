@@ -1,0 +1,3 @@
+[submodule "abcd"]
+	path = abcd
+	url = git@gitcafe.com:grant/abcd.git
