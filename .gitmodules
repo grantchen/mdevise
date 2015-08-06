@@ -4,3 +4,9 @@
 [submodule "xyz"]
 	path = xyz
 	url = git@github.com:grantchen/xyz.git
+[submodule "devise"]
+	path = devise
+	url = http://gitcafe.local:3000/grant/devise.git
+[submodule "devise.wiki"]
+	path = devise.wiki
+	url = http://gitcafe.local:3000/grant/devise.wiki.git
